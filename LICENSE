@@ -1,21 +1,59 @@
-MIT License
+Apache License Version 2.0, January 2004
+http://www.apache.org/licenses/
 
-Copyright (c) 2025 Yusuf Çağdaş 
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Definitions.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+"Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+"Work" shall mean the work of authorship, whether in Source or Object form, made available under the License.
+"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work.
+"Contribution" shall mean any work of authorship, including modifications or additions to the Work or Derivative Works thereof, intentionally submitted to Licensor.
+"Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and incorporated into the Work.
+Grant of Copyright License.
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Grant of Patent License.
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work. However, if You initiate patent litigation alleging that the Work constitutes patent infringement, the patent license granted to You will terminate.
+
+Redistribution.
+You may reproduce and distribute copies of the Work or Derivative Works, with or without modifications, in Source or Object form, provided that you meet the following conditions:
+
+(a) You must provide a copy of this License with any distribution.
+(b) You must cause any modified files to carry prominent notices stating that you changed the files.
+(c) You must retain copyright, patent, trademark, and attribution notices from the Source form of the Work in any Derivative Works.
+(d) If the Work includes a "NOTICE" text file, you must include a copy of the attribution notices contained within such file in your Derivative Works.
+(e) Credit Must Be Given. You must credit the original authors and contributors of the Work.
+(f) User Responsibility. If the Work or Derivative Works do not function correctly, the user acknowledges that they are solely responsible for any consequences.
+Submission of Contributions.
+Any Contribution intentionally submitted to the Licensor for inclusion in the Work shall be under the terms and conditions of this License.
+
+Trademarks.
+This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor.
+
+Disclaimer of Warranty.
+The Work is provided "AS IS," without warranties or conditions of any kind, either express or implied, including but not limited to warranties of title, non-infringement, merchantability, or fitness for a particular purpose.
+
+Limitation of Liability.
+In no event shall any Contributor be liable for any damages arising from the use of the Work, even if advised of the possibility of such damages.
+
+Accepting Warranty or Additional Liability.
+If you offer any warranty, support, indemnity, or other liability obligations, you do so at your own risk and responsibility, and not on behalf of any other Contributor.
+
+Copyright [2025] [ycagdass]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
